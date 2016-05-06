@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "decamelize": "^1.2.0"
+  }
+}
